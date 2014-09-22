@@ -1,0 +1,8 @@
+absoluteurl: https://$USER.github.io
+baseurl: '/$REPO'
+markdown: kramdown
+css:
+  active: "active"
+exclude:
+  - /*.sh
+  - README.md
